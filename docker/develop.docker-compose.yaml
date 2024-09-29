@@ -1,5 +1,5 @@
 version: '3'
-name: 'nuxt-docker-template'
+name: 'bookkeeping-frontend-develop'
 services:
   web:
     build:
